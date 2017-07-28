@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-Switch branch.
+Switch to a new branch "feature1"
